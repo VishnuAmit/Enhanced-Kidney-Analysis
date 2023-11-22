@@ -10,7 +10,7 @@
 - [Result](#result)
 - [Authors](#authors)
 
-## 🧐 Abstract <a name="abstract"></a>
+<p align="justify">## 🧐 Abstract <a name="abstract"></a>
 
 ### 🌐 Introduction
 Detecting kidney diseases poses challenges in both imaging and diagnostics, highlighting the critical need for improved accuracy in kidney disease analysis.
@@ -35,7 +35,7 @@ The performance of SEDenseNet is systematically compared with existing models, p
 The obtained accuracy rate of 99.56% underscores the immense potential of SEDenseNet. Positioned as a cutting-edge solution, SEDenseNet is poised to advance the field of kidney disease diagnosis significantly.
 
 ## 🏁 Getting Started <a name="getting_started"></a>
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.</p>
 
 
 ### Prerequisites
