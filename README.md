@@ -57,6 +57,8 @@ TensorFlow module - pip install tensorflow
 ## 🎉 Result
 
 [![Ouput](result_table.png)]()
+
+
 The outcomes of our study have been truly impressive. We have developed a model called Squeeze andExcitation DenseNet (SEDenseNet) which has achieved an accuracy rate of 99.8%. This remarkable achievement demonstrates the model’s ability to accurately classify kidney conditions, such, as kidneys, tumorous kidneys and kidneys affected by stones. It highlights how this model can greatly improve the precision of diagnoses.The high accuracy rate clearly indicates that this model is practical and effective, in real world healthcare settings.
 
 ## ✍️ Authors <a name = "authors"></a>
