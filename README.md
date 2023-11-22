@@ -1,6 +1,6 @@
 # Kidney-Analysis: SEDenseNet
 </div>
-<p align="center">In this study, we present an approach that utilizes the Squeeze and Excitation DenseNet (SEDenseNet) architecture to advance kidney disease analysis through image processing. The obtained outcome, specifically the accuracy rate, has been measured at an impressive 99.56%.
+<p align="justify">In this study, we present an approach that utilizes the Squeeze and Excitation DenseNet (SEDenseNet) architecture to advance kidney disease analysis through image processing. The obtained outcome, specifically the accuracy rate, has been measured at an impressive 99.56%.
     <br> 
 </p>
 
@@ -56,22 +56,9 @@ TensorFlow module - pip install tensorflow
 
 ## 🎉 Result
 
-[![Ouput](result_ouput.png)]()
-
-
-
-
-## 🚀 Deployment <a name = "deployment"></a>
-Live Demo is deployed at [Live Demo](https://agro-ledger.vercel.app/) through Vercel!
-
-## ⛏️ Built Using <a name = "built_using"></a>
-- Solidity: programming language used to write smart contracts
-- Truffle: development framework for Ethereum
-- Metamask: browser extension to interact with Ethereum-based applications
-- React: JavaScript library used for building user interfaces
-- Web3.js: JavaScript library used to interact with Ethereum network
-- Polygon: a Layer 2 scaling solution for Ethereum
+[![Ouput](result_table.png)]()
 
 ## ✍️ Authors <a name = "authors"></a>
-- [@roshangeorge97](https://github.com/roshangeorge97) - Backend Architecture
-- [@VishnuAmit](https://github.com/VishnuAmit) - Frontend Architecture
+- [@VishnuAmit](https://github.com/VishnuAmit) 
+- [@roshangeorge97](https://github.com/roshangeorge97) 
+
