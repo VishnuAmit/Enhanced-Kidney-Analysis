@@ -10,32 +10,32 @@
 - [Result](#result)
 - [Authors](#authors)
 
-<p align="justify"> ## 🧐 Abstract <a name="abstract"></a>
+## 🧐 Abstract 
 
 ### 🌐 Introduction
-Detecting kidney diseases poses challenges in both imaging and diagnostics, highlighting the critical need for improved accuracy in kidney disease analysis.
+<p align="justify"> Detecting kidney diseases poses challenges in both imaging and diagnostics, highlighting the critical need for improved accuracy in kidney disease analysis. </p>
 
 ### 🛠️ Methodology
-The study introduces the Squeeze and Excitation DenseNet (SEDenseNet) architecture, combining the advantages of DenseNet with the Squeeze and Excitation mechanism. The methodology focuses on leveraging image processing techniques for enhanced kidney disease analysis.
+<p align="justify"> The study introduces the Squeeze and Excitation DenseNet (SEDenseNet) architecture, combining the advantages of DenseNet with the Squeeze and Excitation mechanism. The methodology focuses on leveraging image processing techniques for enhanced kidney disease analysis. </p>
 
 ### 🎯 Research Objective
 - Investigate the potential of SEDenseNet in revolutionizing the diagnosis of kidney diseases.
 - Compare SEDenseNet's performance with existing models in the field.
 
 ### 🚀 Model Overview
-SEDenseNet is specifically designed to enhance diagnostic accuracy. It seamlessly integrates DenseNet features with the Squeeze and Excitation mechanism, offering a comprehensive solution for kidney disease diagnosis.
+<p align="justify">  SEDenseNet is specifically designed to enhance diagnostic accuracy. It seamlessly integrates DenseNet features with the Squeeze and Excitation mechanism, offering a comprehensive solution for kidney disease diagnosis. </p>
 
 ### 📊 Performance Evaluation
-SEDenseNet demonstrates a remarkable accuracy rate of 99.56%, emphasizing the significant progress achieved in the field of medical image analysis.
+<p align="justify"> SEDenseNet demonstrates a remarkable accuracy rate of 99.56%, emphasizing the significant progress achieved in the field of medical image analysis.</p>
 
 ### 🔄 Comparison with Other Models
-The performance of SEDenseNet is systematically compared with existing models, providing valuable insights into its superiority in kidney disease diagnosis.
+<p align="justify">  The performance of SEDenseNet is systematically compared with existing models, providing valuable insights into its superiority in kidney disease diagnosis.</p>
 
 ### 🎓 Conclusion
-The obtained accuracy rate of 99.56% underscores the immense potential of SEDenseNet. Positioned as a cutting-edge solution, SEDenseNet is poised to advance the field of kidney disease diagnosis significantly.
+<p align="justify"> The obtained accuracy rate of 99.56% underscores the immense potential of SEDenseNet. Positioned as a cutting-edge solution, SEDenseNet is poised to advance the field of kidney disease diagnosis significantly. </p>
 
 ## 🏁 Getting Started <a name="getting_started"></a>
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. </p>
+<p align="justify">  These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. </p>
 
 
 ### Prerequisites
