@@ -34,8 +34,9 @@ The performance of SEDenseNet is systematically compared with existing models, p
 ### 🎓 Conclusion
 The obtained accuracy rate of 99.56% underscores the immense potential of SEDenseNet. Positioned as a cutting-edge solution, SEDenseNet is poised to advance the field of kidney disease diagnosis significantly.
 
-## 🏁 Getting Started <a name = "getting_started"></a>
+## 🏁 Getting Started <a name="getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+
 
 ### Prerequisites
 
