@@ -10,7 +10,7 @@
 - [Result](#result)
 - [Authors](#authors)
 
-<p align="justify">## 🧐 Abstract <a name="abstract"></a>
+<p align="justify"> ## 🧐 Abstract <a name="abstract"></a>
 
 ### 🌐 Introduction
 Detecting kidney diseases poses challenges in both imaging and diagnostics, highlighting the critical need for improved accuracy in kidney disease analysis.
