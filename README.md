@@ -65,6 +65,7 @@ TensorFlow module - pip install tensorflow
 </p>
 
 ## ✍️ Authors <a name = "authors"></a>
-- [@VishnuAmit](https://github.com/VishnuAmit) 
+- [@VishnuAmit](https://github.com/VishnuAmit)
+- [@AkileshRaoS](https://github.com/AkileshRaoS)
 - [@roshangeorge97](https://github.com/roshangeorge97) 
 
